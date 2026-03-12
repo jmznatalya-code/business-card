@@ -1,8 +1,8 @@
-const CACHE = 'app-v1';
+const CACHE = 'business-card-v1';
 const ASSETS = [
-  '/template-webapp/',
-  '/template-webapp/index.html',
-  '/template-webapp/manifest.json'
+  '/business-card/',
+  '/business-card/index.html',
+  '/business-card/manifest.json'
 ];
 
 self.addEventListener('install', e => {
