@@ -1,11 +1,11 @@
 {
-  "name": "My App",
-  "short_name": "App",
-  "start_url": "/template-webapp/",
-  "scope": "/template-webapp/",
+  "name": "Business Card",
+  "short_name": "My Card",
+  "start_url": "/business-card/",
+  "scope": "/business-card/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#f7f5f2",
+  "theme_color": "#1a1a1a",
   "icons": [
     {
       "src": "icon.png",
